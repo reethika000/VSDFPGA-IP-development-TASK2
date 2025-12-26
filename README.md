@@ -22,8 +22,11 @@ gpio.v
 
 endmodule
 
+
+
 gpio_test.c
-```#include "io.h"
+
+#include "io.h"
 
 #define GPIO_BASE 0x20000000
 
