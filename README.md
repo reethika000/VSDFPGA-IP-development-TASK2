@@ -1,5 +1,5 @@
-gpio.v
-```module gpio (
+ HERE IS THE gpio.v
+    module gpio (
     input  wire        clk,
     input  wire        reset,
     input  wire        wr,
