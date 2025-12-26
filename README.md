@@ -23,8 +23,8 @@ gpio.v
 endmodule
 
 
+HERE IS THE gpio_test.c
 
-gpio_test.c
 
 #include "io.h"
 
@@ -53,7 +53,7 @@ gpio IP_inst (
     .gpio_out (gpio_out)
 );
 
-IP INSTANTIATION
+ HERE IS THE IP INSTANTIATION
 ```wire [31:0] gpio_rdata;
 wire [31:0] gpio_out;
 wire        gpio_we;
